@@ -1,0 +1,11 @@
+.env
+credentials.json
+token.json
+service_account.json
+.tmp/
+__pycache__/
+*.pyc
+.venv/
+credentials.json.json
+service_account.json.json
+.claude/settings.local.json
