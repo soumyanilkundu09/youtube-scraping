@@ -1,0 +1,55 @@
+{
+  "slug": "animation",
+  "display_name": "Animation",
+  "channels": [
+    "@Blender",
+    "@BlenderGuru",
+    "@CGCookie",
+    "@Ducky3D",
+    "@PolygonRunway",
+    "@CGMatter",
+    "@CGBoost",
+    "@AlanBecker",
+    "@SonduckFilm",
+    "@SirWade"
+  ],
+  "keyword_searches": [
+    "3D animation tutorial",
+    "2D animation tutorial",
+    "Blender animation",
+    "After Effects motion graphics",
+    "character rigging tutorial",
+    "how to become an animator",
+    "animation career tips",
+    "AI animation tools"
+  ],
+  "must_include": [
+    "animation", "animator", "animate", "animated", "blender", "after effects",
+    "motion graphics", "motion design", "rigging", "toon boom", "maya", "cinema 4d"
+  ],
+  "exclude": ["lyrics", "nightcore", "asmr", "reaction"],
+  "skills": {
+    "Blender": ["blender"],
+    "After Effects": ["after effects", "aftereffects"],
+    "Maya": ["maya"],
+    "Cinema 4D": ["cinema 4d", "c4d"],
+    "Toon Boom": ["toon boom", "toonboom"],
+    "Rigging": ["rigging", "rig"],
+    "Character animation": ["character animation", "animating characters"],
+    "Motion graphics": ["motion graphics", "motion design"],
+    "3D modeling / sculpting": ["3d modeling", "3d modelling", "sculpting", "zbrush"],
+    "Game engines": ["unreal engine", "unity"],
+    "2D / frame-by-frame": ["2d animation", "frame by frame", "hand drawn", "procreate"],
+    "AI animation": ["ai animation", "runway", "stable diffusion", "midjourney", "sora"]
+  },
+  "content_types": {
+    "showcase": ["short film", "showreel", "breakdown", "making of", "behind the scenes"]
+  },
+  "lookback_days": 30,
+  "region": null,
+  "language": "en",
+  "shorts_max_seconds": 60,
+  "videos_per_channel": 30,
+  "videos_per_search": 50,
+  "recipient": null
+}

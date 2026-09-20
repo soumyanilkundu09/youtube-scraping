@@ -1,0 +1,51 @@
+{
+  "slug": "ai_automation",
+  "display_name": "AI & Automation",
+  "channels": [
+    "@mreflow",
+    "@Fireship",
+    "@aiexplained-official",
+    "@TwoMinutePapers",
+    "@lexfridman",
+    "@DaveShap",
+    "@theaiadvantage",
+    "@nicholasrenotte",
+    "@samwitteveenai",
+    "@aiautomationagency"
+  ],
+  "keyword_searches": [
+    "AI automation",
+    "Claude AI agent",
+    "LLM agents tutorial",
+    "AI tools productivity",
+    "ChatGPT workflow",
+    "AI content creation"
+  ],
+  "must_include": [
+    "ai", "artificial intelligence", "llm", "gpt", "chatgpt", "claude", "gemini",
+    "openai", "agent", "agents", "automation", "automate", "n8n", "copilot"
+  ],
+  "exclude": [],
+  "filter_channel_videos": true,
+  "skills": {
+    "Claude": ["claude", "anthropic"],
+    "ChatGPT / OpenAI": ["chatgpt", "openai", "gpt-4", "gpt-5", "gpt4", "gpt5"],
+    "Gemini": ["gemini"],
+    "AI agents": ["ai agent", "ai agents", "agentic"],
+    "n8n": ["n8n"],
+    "Zapier / Make": ["zapier", "make.com"],
+    "MCP": ["mcp", "model context protocol"],
+    "Cursor / AI coding": ["cursor", "claude code", "copilot", "vibe coding"],
+    "RAG": ["rag", "retrieval augmented"],
+    "LangChain": ["langchain", "langgraph"],
+    "Prompt engineering": ["prompt engineering", "prompting", "prompts"]
+  },
+  "content_types": {},
+  "lookback_days": 30,
+  "region": null,
+  "language": "en",
+  "shorts_max_seconds": 60,
+  "videos_per_channel": 30,
+  "videos_per_search": 50,
+  "recipient": null
+}

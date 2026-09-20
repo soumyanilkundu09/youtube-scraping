@@ -1,0 +1,131 @@
+{
+  "slug": "seedance",
+  "display_name": "Seedance AI Video",
+  "channels": [
+    "@MattVidPro",
+    "@TheoreticallyMedia",
+    "@CuriousRefuge",
+    "@theAIsearch",
+    "@intheworldofai",
+    "@mreflow",
+    "@AIJasonZ",
+    "@TheAiGrid",
+    "@AIVideoSchool",
+    "@mrvoid-ai",
+    "@aiexplained-official"
+  ],
+  "keyword_searches": [
+    "Seedance",
+    "Seedance 2.5",
+    "Seedance 2.0",
+    "Seedance AI video generator",
+    "Seedance tutorial",
+    "Seedance prompts",
+    "Seedance vs Veo Kling Sora"
+  ],
+  "must_include": [
+    "seedance"
+  ],
+  "exclude": [],
+  "filter_channel_videos": true,
+  "skills": {
+    "Seedance 2.5": [
+      "seedance 2.5",
+      "seedance 25"
+    ],
+    "Seedance 2.0": [
+      "seedance 2.0",
+      "seedance 2"
+    ],
+    "Seedance 1.x": [
+      "seedance 1.0",
+      "seedance 1.5",
+      "seedance 1",
+      "seedance 1 pro",
+      "seedance lite"
+    ],
+    "Veo": [
+      "veo",
+      "veo 3"
+    ],
+    "Sora": [
+      "sora",
+      "sora 2"
+    ],
+    "Kling": [
+      "kling"
+    ],
+    "Runway": [
+      "runway"
+    ],
+    "Hailuo / MiniMax": [
+      "hailuo",
+      "minimax"
+    ],
+    "Midjourney": [
+      "midjourney"
+    ],
+    "Text to video": [
+      "text to video",
+      "text-to-video"
+    ],
+    "Image to video": [
+      "image to video",
+      "image-to-video"
+    ],
+    "Multi-shot / storytelling": [
+      "multi-shot",
+      "multi shot",
+      "storytelling",
+      "short film",
+      "ai film"
+    ],
+    "Audio / lip sync": [
+      "lip sync",
+      "lipsync",
+      "native audio",
+      "sound effects"
+    ],
+    "Reference-based control": [
+      "reference image",
+      "reference video",
+      "consistent character",
+      "character consistency"
+    ],
+    "Prompting": [
+      "prompt",
+      "prompts",
+      "prompting"
+    ],
+    "Platforms (Dreamina/CapCut/fal)": [
+      "dreamina",
+      "capcut",
+      "jimeng",
+      "fal.ai",
+      "higgsfield",
+      "freepik",
+      "krea"
+    ]
+  },
+  "content_types": {
+    "prompt guide": [
+      "prompt",
+      "prompts",
+      "prompting"
+    ],
+    "showcase": [
+      "short film",
+      "ai film",
+      "commercial",
+      "ad generated",
+      "made with"
+    ]
+  },
+  "lookback_days": 60,
+  "region": null,
+  "language": "en",
+  "shorts_max_seconds": 60,
+  "videos_per_channel": 50,
+  "videos_per_search": 50,
+  "recipient": null
+}

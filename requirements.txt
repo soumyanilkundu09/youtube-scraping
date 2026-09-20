@@ -5,3 +5,4 @@ python-dotenv
 python-pptx
 plotly
 kaleido
+scikit-learn
